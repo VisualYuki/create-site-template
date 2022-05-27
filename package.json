@@ -1,0 +1,17 @@
+{
+  "name": "create-site-template",
+  "version": "0.0.4",
+  "description": "start template for new html,css,js site",
+  "main": "index.js",
+  "type": "module",
+  "bin": "bin/create-site-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16"
+  }
+}
